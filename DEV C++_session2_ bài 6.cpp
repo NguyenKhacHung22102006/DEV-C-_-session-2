@@ -12,7 +12,5 @@ int main()
     printf("dien tich hinh tron la: %f\n",s);
     printf("chu vi hinh tron la: %f\n",ChuVi);
     printf("\n");
-    printf("pham_nhat_tan_s2_6\n");
-    printf("Hello world!\n");
     return 0;
 }
